@@ -1,6 +1,6 @@
 #### 1
 #### 2
-#### 3
+#### 3 Getting started with collaboration practice.
 #### 4
 #### 5
 #### 6
